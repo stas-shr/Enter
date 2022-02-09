@@ -5,14 +5,14 @@ const Profile = () => {
     return (
         <div>
             <div>
-                <img src="https://www.fao.org/uploads/pics/Corals_03.jpg" />
+                <img src="https://www.fao.org/uploads/pics/Corals_03.jpg"/>
             </div>
             <div>
                 ava + descr
             </div>
             <textarea></textarea>
             <button>Add Post</button>
-            <MyPosts />
+            <MyPosts/>
         </div>
     )
 }
